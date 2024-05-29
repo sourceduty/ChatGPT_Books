@@ -8,5 +8,10 @@ The [ChatGPT Books](https://www.kaggle.com/datasets/sourceduty/chatgpt-books) li
 
 Furthermore, the dataset serves as an invaluable resource for researchers and data analysts interested in exploring literary trends and patterns. By examining the metadata, one can identify trends in publication years, genre popularity, and authorial influence over time. The dataset's structure supports various analytical applications, from basic statistical analysis to advanced machine learning projects. For instance, natural language processing (NLP) techniques can be employed to analyze the synopses and reviews, uncovering deeper insights into themes and sentiments associated with the books. Overall, the ChatGPT Books library dataset is a versatile tool that bridges the gap between literature and data science, offering rich possibilities for both casual readers and academic researchers.
 
+#
+### Related Links
+
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
+
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
