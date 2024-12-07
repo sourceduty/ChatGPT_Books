@@ -12,6 +12,8 @@ Furthermore, the dataset serves as an invaluable resource for researchers and da
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Book Quality](https://github.com/sourceduty/Book_Quality)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
