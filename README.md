@@ -14,6 +14,12 @@ Furthermore, the dataset serves as an invaluable resource for researchers and da
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Book Quality](https://github.com/sourceduty/Book_Quality)
+<br>
+[Dynamic Reader](https://github.com/sourceduty/Dynamic_Reader)
+<br>
+[Movie Bookscript](https://github.com/sourceduty/Movie_Bookscript)
+<br>
+[Frankenstein Writer](https://github.com/sourceduty/Frankenstein_Writer)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
